@@ -1,0 +1,14 @@
+C:\Users\Ангелина\Desktop\C#+\HOMEATT\obj\Debug\net8.0\HOMEATT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ангелина\Desktop\C#+\HOMEATT\obj\Debug\net8.0\HOMEATT.AssemblyInfoInputs.cache
+C:\Users\Ангелина\Desktop\C#+\HOMEATT\obj\Debug\net8.0\HOMEATT.AssemblyInfo.cs
+C:\Users\Ангелина\Desktop\C#+\HOMEATT\obj\Debug\net8.0\HOMEATT.csproj.CoreCompileInputs.cache
+C:\Users\Ангелина\Desktop\C#+\HOMEATT\bin\Debug\net8.0\HOMEATT.exe
+C:\Users\Ангелина\Desktop\C#+\HOMEATT\bin\Debug\net8.0\HOMEATT.deps.json
+C:\Users\Ангелина\Desktop\C#+\HOMEATT\bin\Debug\net8.0\HOMEATT.runtimeconfig.json
+C:\Users\Ангелина\Desktop\C#+\HOMEATT\bin\Debug\net8.0\HOMEATT.dll
+C:\Users\Ангелина\Desktop\C#+\HOMEATT\bin\Debug\net8.0\HOMEATT.pdb
+C:\Users\Ангелина\Desktop\C#+\HOMEATT\obj\Debug\net8.0\HOMEATT.dll
+C:\Users\Ангелина\Desktop\C#+\HOMEATT\obj\Debug\net8.0\refint\HOMEATT.dll
+C:\Users\Ангелина\Desktop\C#+\HOMEATT\obj\Debug\net8.0\HOMEATT.pdb
+C:\Users\Ангелина\Desktop\C#+\HOMEATT\obj\Debug\net8.0\HOMEATT.genruntimeconfig.cache
+C:\Users\Ангелина\Desktop\C#+\HOMEATT\obj\Debug\net8.0\ref\HOMEATT.dll
